@@ -102,6 +102,10 @@ Performance was aggregated by sentiment classification across **Total PnL**, **A
 | Neutral | $1,292,921 | $34.31 | -$24,500 | 40% |
 | Greed | $2,150,129 | $42.74 | -$117,990 | 38% |
 | Extreme Greed | $2,715,171 | $67.89 | -$10,259 | 46% |
+---
+
+![Trade Performance](/Visuals/Performance.png)
+
 
 **Key Insights:**
 
@@ -116,6 +120,8 @@ Performance was aggregated by sentiment classification across **Total PnL**, **A
 
 Behavioral metrics were computed per sentiment classification: trade count, average trade size, long/short bias, and average fee paid.
 
+---
+![](/Visuals/Behavior.png)
 **Key Insights:**
 
 - **Contrarian Long Bias in Fear:** Traders show their highest Long Bias (61.95%) during *Extreme Fear* — buying the dip while the market broadly sells off.
